@@ -1,0 +1,46 @@
+.product-section-container-1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-size: cover;
+    height: 100vh;
+    padding: 12px;
+}
+
+.product-section-heading {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+.product-section-container-heading {
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.product-section-container-para {
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.product-section-container-button {
+    color: #ffffff;
+    background-color: transparent;
+    border-color: #ffffff;
+    border-radius: 6px;
+    padding: 4px;
+    width: 110px;
+}
+
+.product-section-container-2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-size: cover;
+    height: 100vh;
+    padding: 12px;
+}
+
+.product-section-button {
+    color: #ffffff;
+    background-color: #1754a1;
+    padding: 8px;
+    border-width: 0px;
+    width: 120px;
+}
