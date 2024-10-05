@@ -1,0 +1,15 @@
+.responsive-box-heading {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.color-box {
+    padding: 15px;
+}
+
+.box-number {
+    font-size: 26px;
+    text-align: center;
+    color: white;
+}
