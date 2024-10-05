@@ -1,0 +1,31 @@
+.contact-us-section {
+    background-color: #222b36;
+    height: 100vh;
+    padding: 30px;
+}
+
+.contact-uc-section-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: White;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contact-us-section-img {
+    height: 150px;
+    width: 300px;
+}
+
+.contact-us-section-btn {
+    height: 35px;
+    width: 120px;
+    background-color: transparent;
+    color: White;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: white;
+    font-family: "Roboto";
+    font-size: 14px;
+}
