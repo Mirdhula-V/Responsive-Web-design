@@ -1,0 +1,30 @@
+.section {
+    background-color: white;
+}
+
+.section-img {
+    width: 270px;
+}
+
+.section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    color: white;
+    background-color: Black;
+    width: 130px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
